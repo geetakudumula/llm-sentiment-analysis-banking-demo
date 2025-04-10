@@ -1,6 +1,7 @@
 # 🧠 LLM-Based Sentiment Analysis for Banking Feedback
 
-> Real-time customer sentiment classification using Hugging Face Transformers (BERT) — tailored for a banking style feedback analysis use case.
+AI-driven sentiment analysis to help banks understand customer feedback using LLMs and Python.
+
 
 ---
 
