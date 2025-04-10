@@ -1,4 +1,4 @@
-# 🧠 LLM-Based Sentiment Analysis for Banking Feedback
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/8b445d57-cec3-43b8-aeea-2e29321f0084" /># 🧠 LLM-Based Sentiment Analysis for Banking Feedback
 
 > Real-time customer sentiment classification using Hugging Face Transformers (BERT) — tailored for a banking-style feedback analysis use case.
 
@@ -40,17 +40,8 @@ llm-sentiment-analysis-banking-demo/
 ---
 
 ## 📊 Architecture Diagram
-```mermaid
-flowchart TD
-    A[Customer Interaction via Chatbot / Survey App] --> B[Frontend Web/Mobile Interface]
-    B --> C[Backend API (Flask / FastAPI)]
-    C --> D[Text Preprocessing (cleanup)]
-    D --> E[Sentiment Inference using Hugging Face BERT Model]
-    E --> F[Prediction: Positive / Negative]
-    F --> G[Display Result in Notebook / Dashboard]
-    G --> H[Optional: Store in MongoDB / PostgreSQL]
-    H --> I[Analyst Review / Reporting]
-```
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/db918871-fb79-4013-ab81-7ec5729ecd17" />
+
 
 ---
 
