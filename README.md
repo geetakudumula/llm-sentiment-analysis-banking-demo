@@ -75,12 +75,6 @@ torch
 jupyter
 ipywidgets
 ```
-
----
-
-## 📄 LICENSE
-MIT License — see `LICENSE` file for full text.
-
 ---
 
 ## 💬 Questions or Ideas?
