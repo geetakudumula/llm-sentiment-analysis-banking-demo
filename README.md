@@ -40,17 +40,8 @@ llm-sentiment-analysis-banking-demo/
 ---
 
 ## 📊 Architecture Diagram
-```mermaid
-flowchart TD
-    A[Customer Interaction via Chatbot / Survey App] --> B[Frontend Web/Mobile Interface]
-    B --> C[Backend API (Flask / FastAPI)]
-    C --> D[Text Preprocessing (cleanup)]
-    D --> E[Sentiment Inference using Hugging Face BERT Model]
-    E --> F[Prediction: Positive / Negative]
-    F --> G[Display Result in Notebook / Dashboard]
-    G --> H[Optional: Store in MongoDB / PostgreSQL]
-    H --> I[Analyst Review / Reporting]
-```
+
+<img width="234" alt="image" src="https://github.com/user-attachments/assets/9b3e40c6-4bf6-4100-9942-58dc429ca4dd" />
 
 ---
 
