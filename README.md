@@ -86,3 +86,8 @@ Feel free to open an issue or reach out if you’d like to extend this with:
 ---
 
 **⭐️ Don’t forget to star this repo if you found it useful!**
+---
+
+### 🔖 Tags
+
+`#NLP` &nbsp; `#HuggingFace` &nbsp; `#BERT` &nbsp; `#LLM` &nbsp; `#Banking` &nbsp; `#Python` &nbsp; `#Jupyter`
