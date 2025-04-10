@@ -1,11 +1,11 @@
 # 🧠 LLM-Based Sentiment Analysis for Banking Feedback
 
-> Real-time customer sentiment classification using Hugging Face Transformers (BERT) — tailored for a banking-style feedback analysis use case.
+> Real-time customer sentiment classification using Hugging Face Transformers (BERT) — tailored for a banking style feedback analysis use case.
 
 ---
 
 ## 📌 Project Overview
-This project simulates a **real-world banking feedback sentiment analyzer** using a pretrained BERT model via Hugging Face Transformers. Customer comments — such as those collected from chatbot interactions or online surveys — are processed and classified as **positive** or **negative**.
+This project simulates a **real-world banking feedback sentiment analyzer** using a pretrained BERT model via Hugging Face Transformers. Customer comments, such as those collected from chatbot interactions or online surveys  are processed and classified as **positive** or **negative**.
 
 🔍 **Primary Goal**: Help banks gauge customer satisfaction at scale using AI/LLMs.
 
